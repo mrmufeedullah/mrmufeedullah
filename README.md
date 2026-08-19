@@ -1,4 +1,4 @@
- Passionate about MERN Stack Development and Artificial Intelligence, building modern web applications and exploring innovative AI-powered solutions.
+ <img src = "C:\Users\USER\Documents\GitHUb" width="1200px" height = "420px" > 
 <table >
  <tr>
 <td bgcolor="#51614e">
