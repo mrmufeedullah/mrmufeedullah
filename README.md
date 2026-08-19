@@ -1,6 +1,6 @@
  <p align="center">
-  <img src="./ Github_banner.jfif" width="1200" height="450">
-</p> 
+  <img src="./Github_banner.jfif" width="1200" height="450">
+</p>
 <table >
  <tr>
 <td bgcolor="#51614e">
