@@ -5,7 +5,7 @@
  <tr>
 <td bgcolor="#51614e">
 # 💫 About Me:
-👋 Hi, I’m Mufeedullah Rind<br><br>💻 MERN Stack Developer | 🤖 AI Enthusiast | 📈 Digital Marketer<br><br>I love building modern, responsive web applications with JavaScript, React.js, and the MERN stack while exploring Artificial Intelligence and AI-powered solutions.<br><br>🚀 Always learning, building, and turning ideas into real-world projects.
+👋 Hi, I’m Mufeedullah Rind<br><br>💻 FullStack Developer | 🤖 AI Enthusiast | 📈 Digital Marketer<br><br>I love building modern, responsive web applications with JavaScript, React.js, and the MERN stack while exploring Artificial Intelligence and AI-powered solutions.<br><br>🚀 Always learning, building, and turning ideas into real-world projects.
 
 
 ## 🌐 Socials:
