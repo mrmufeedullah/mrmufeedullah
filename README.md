@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./Github_banner.jfif" width="700" height="300">
+  <img src="./github_banner.png" width="700" height="300">
 </p>
 <table >
  <tr>
